@@ -1,9 +1,20 @@
 # Expansion odule : BLE BMD330AR
 
-![Hardware](https://img.shields.io/badge/Hardware-PCB-red)
-![Design](https://img.shields.io/badge/Design-Schematic-blue)
-![made-with-eagle](https://img.shields.io/badge/Made%20with-Eagle-blue.svg)
-![license](https://img.shields.io/badge/license-MIT-green)
+### Schematic
+![Schematic](media/sch.png)
+*The schematic diagram provides a detailed view of the circuit design and component connections, essential for understanding the module's functionality and for troubleshooting.*
+
+### Board Design - Top View
+![Board Design Top](media/brd_top.png)
+*This image shows the top view of the PCB layout, highlighting the placement of components, including the encoders and the ATtiny48 microcontroller.*
+
+### Board Design - Bottom View
+![Board Design Bottom](media/brd_bottom.png)
+*The bottom view of the PCB layout illustrates the routing of traces and the arrangement of additional components, giving a complete overview of the PCB design.*
+
+### Connector Signals
+![Connector Signals](media/CONx1.png)
+*
 
 ## Overview
 This repository hosts the design and implementation of the BLE BMD330AR Expansion Module. The module integrates the BMD-330-A-R, a Bluetooth 5.0 Low Energy module, suitable for a wide range of IoT and automation applications. It connects to the smartboard via a single slot, utilizing four serial port lines: RX, TX, RTS, and CTS, along with two configuration pins.
