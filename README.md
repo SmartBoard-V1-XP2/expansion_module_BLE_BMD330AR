@@ -1,7 +1,9 @@
 # Expansion odule : BLE BMD330AR
 
+![Hardware](https://img.shields.io/badge/Hardware-Expansion%20Module-blue)
 ![Hardware](https://img.shields.io/badge/Hardware-PCB-red)
 ![Design](https://img.shields.io/badge/Design-Schematic-blue)
+![Interface](https://img.shields.io/badge/Interface-UART-yellow)
 ![made-with-eagle](https://img.shields.io/badge/Made%20with-Eagle-blue.svg)
 ![license](https://img.shields.io/badge/license-MIT-green)
 
